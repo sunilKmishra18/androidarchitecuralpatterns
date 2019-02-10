@@ -3,7 +3,7 @@ Android-CleanArchitecture
 
 Introduction
 -----------------
-This is a sample app that demonstrates about how to architect android application using the Uncle Bob's clean architecture approach With MVP Architectural Pattern.
+This is a sample app that demonstrates about how to architect android application using the Uncle Bob's clean architecture approach With MVP (Model View Presenter) Architectural Pattern.
 
 
 Clean architecture
@@ -20,10 +20,10 @@ Architectural reactive approach
 
 Libraries used on the sample project:
 ------------------------------------
-* [dagger]
-* [butterKnife]
-* [rxJava]
-* [rxAndroid]
-* [okHttp]
-* [gson]
-* [leakCanary]
+* dagger
+* butterKnife
+* rxJava
+* rxAndroid
+* okHttp
+* gson
+* leakCanary
